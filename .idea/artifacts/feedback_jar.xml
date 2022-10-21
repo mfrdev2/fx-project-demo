@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="feedback:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/feedback_jar</output-path>
+    <root id="archive" name="feedback.jar">
+      <element id="module-output" name="feedback" />
+    </root>
+  </artifact>
+</component>
